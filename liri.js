@@ -114,7 +114,7 @@ function myTweets() {
 
 function spotifyThisSong() {
 	// Where did you find this method to use ?   such as query, i couldn't find that one 
-	spotifyLookup.search({ type:"track", query: selectMusic, limit:5}, function(err, data){
+	spotifysong.search({ type:"track", query: selectMusic, limit:5}, function(err, data){
 		if(err) {
 			return console.log("there was an error: " + error+ '\n');
 }			
