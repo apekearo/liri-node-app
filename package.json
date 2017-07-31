@@ -1,0 +1,19 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "description": "siri like backend app",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apekearo/liri-node-app.git"
+  },
+  "author": "Tony Pekearo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apekearo/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/apekearo/liri-node-app#readme"
+}
